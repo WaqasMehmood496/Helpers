@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C18EAA66-5AD4-4445-906B-7FB6D80ED0C0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACFCD171-03D5-42D4-9C01-66D68342B943"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatSDKIntegrationTesting/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "openChatBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42A005EF-2A53-48B6-BEAE-69A4DED34A39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatSDKIntegrationTesting/BChatSDK Handler/ChatSDKHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "addHockForThreads(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42A005EF-2A53-48B6-BEAE-69A4DED34A39 - d67549481e1fa175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in ChatSDKIntegrationTesting.ChatSDKHandler.addHockForThreads(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatSDKIntegrationTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/WorkSpace/ChatSDKIntegrationTesting/ChatSDKIntegrationTesting/BChatSDK%20Handler/ChatSDKHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "42A005EF-2A53-48B6-BEAE-69A4DED34A39 - d67549481e1fa175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in ChatSDKIntegrationTesting.ChatSDKHandler.addHockForThreads(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatSDKIntegrationTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/WorkSpace/ChatSDKIntegrationTesting/ChatSDKIntegrationTesting/BChatSDK%20Handler/ChatSDKHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "42A005EF-2A53-48B6-BEAE-69A4DED34A39 - d67549481e1fa175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in ChatSDKIntegrationTesting.ChatSDKHandler.addHockForThreads(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatSDKIntegrationTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/WorkSpace/ChatSDKIntegrationTesting/ChatSDKIntegrationTesting/BChatSDK%20Handler/ChatSDKHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  uuid = "42A005EF-2A53-48B6-BEAE-69A4DED34A39 - d67549481e1fa175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in ChatSDKIntegrationTesting.ChatSDKHandler.addHockForThreads(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatSDKIntegrationTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/WorkSpace/ChatSDKIntegrationTesting/ChatSDKIntegrationTesting/BChatSDK%20Handler/ChatSDKHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "519">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "397405AE-6C9B-4027-9400-07E549F6B604"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatSDKIntegrationTesting/Controllers/ChatListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "logout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Core-Data-Implementation' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Core-Data-Implementation
+
+	  pod 'SwiftyJSON'
+
+  target 'Core-Data-ImplementationTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Core-Data-ImplementationUITests' do
+    # Pods for testing
+  end
+
+end

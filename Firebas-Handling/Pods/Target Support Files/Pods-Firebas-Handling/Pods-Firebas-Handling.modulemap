@@ -1,0 +1,6 @@
+framework module Pods_Firebas_Handling {
+  umbrella header "Pods-Firebas-Handling-umbrella.h"
+
+  export *
+  module * { export * }
+}

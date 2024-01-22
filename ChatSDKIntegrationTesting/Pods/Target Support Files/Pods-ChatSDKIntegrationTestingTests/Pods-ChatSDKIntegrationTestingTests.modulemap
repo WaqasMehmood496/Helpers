@@ -1,0 +1,6 @@
+framework module Pods_ChatSDKIntegrationTestingTests {
+  umbrella header "Pods-ChatSDKIntegrationTestingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
